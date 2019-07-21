@@ -1,0 +1,1 @@
+This project is about spooky things in Kentucky. There are two sections to the project, Mysteries and Paranormal, that list these strange events that have happened exclusively in Kentucky. The user can email the page by clinking the email link at the bottom of each page.
